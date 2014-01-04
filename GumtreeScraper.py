@@ -1,4 +1,6 @@
 #Author: Jon Williams
+#This is a simple script design to scrape adds from GumTree and output them to a MS Excel spreadsheet .xlsx
+
 #GumtreeScraper.py
 
 # Import Librarys
